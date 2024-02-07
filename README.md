@@ -1,2 +1,3 @@
-# Uzamaki-Bootstrap
-just enjoy building Responsive website using bootstrap framework
+# Bootstrap CSS Framework
+
+Jovian careers website demonstrating usage of the bootstrap CSS framework
